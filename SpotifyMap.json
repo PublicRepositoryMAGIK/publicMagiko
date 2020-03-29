@@ -15,8 +15,17 @@
   "shuffle_active": ".control-button.spoticon-shuffle-16.control-button--active",
   
   "love_playlist_normal": ".a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss",
-  "love_playlist_active": "a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss.b86d4985215ef0b3ba87440586d38841-scss",
+  "love_playlist_active": ".a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss.b86d4985215ef0b3ba87440586d38841-scss",
+  
+  "skip_back_button": ".control-button.spoticon-skip-back-16",
   "skip_forward_button": ".control-button.spoticon-skip-forward-16",
   
-  "login_link": "https://accounts.spotify.com/it/login"
+  "follow_artist_normal": "._2221af4e93029bedeab751d04fab4b8b-scss._56a12d0978529b654affa11ca9390bd7-scss",
+  "follow_artist_active": "._2221af4e93029bedeab751d04fab4b8b-scss._56a12d0978529b654affa11ca9390bd7-scss._8ce451f6f123dc0dcda731378dbf8673-scss",
+  
+  "login_link": "https://accounts.spotify.com/it/login",
+  "main_link": "https://open.spotify.com/",
+  
+  "make_playlist": ".dialog ._2221af4e93029bedeab751d04fab4b8b-scss._8fec0262e00c11513faad732021ed012-scss",
+  "input_field_playlist_name": ".dialog ._7c0399398b8b07b1b1fa6764a3ed59b1-scss input[type='text']"
 }
