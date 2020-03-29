@@ -1,0 +1,22 @@
+{
+  "username_field": "#login-username",
+  "password_field": "#login-password",
+  "login_button": "#login-button",
+  "create_playlist_button": ".CreatePlaylistButton",
+  
+  "love_song_normal": ".control-button.spoticon-heart-16",
+  "love_song_active": ".control-button.spoticon-heart-active-16.control-button--active",
+  
+  "repeat_song_normal":".control-button.spoticon-repeat-16",
+  "repeat_song_active": ".control-button.spoticon-repeat-16.control-button--active",
+  "repeat_song_once": ".control-button.spoticon-repeatonce-16.control-button--active",
+  
+  "shuffle_normal": ".control-button.spoticon-shuffle-16",
+  "shuffle_active": ".control-button.spoticon-shuffle-16.control-button--active",
+  
+  "love_playlist_normal": ".a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss",
+  "love_playlist_active": "a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss.b86d4985215ef0b3ba87440586d38841-scss",
+  
+  "skip_forward_button": ".control-button.spoticon-skip-forward-16",
+  
+}
