@@ -16,5 +16,7 @@
   
   "love_playlist_normal": ".a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss",
   "love_playlist_active": "a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss.b86d4985215ef0b3ba87440586d38841-scss",
-  "skip_forward_button": ".control-button.spoticon-skip-forward-16"
+  "skip_forward_button": ".control-button.spoticon-skip-forward-16",
+  
+  "login_link": "https://accounts.spotify.com/it/login"
 }
