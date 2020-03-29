@@ -1,0 +1,19 @@
+{
+  "playlist": "https://open.spotify.com/playlist/1jy2T0nbc2cO02yVd9ao6m",
+  "artist_page": "https://open.spotify.com/playlist/1jy2T0nbc2cO02yVd9ao6m",
+  "threads": 1,
+  "listen_time": "46s-60s",
+  "stop_time": false,           
+  "max_vitalize_listen": 8,
+  "shuffle": false,
+  "repeat":false,
+  "repeat_two": false,
+  "save_song": false,
+  "save_playlist": false,
+  "follow_artist": false,
+  "create_playlist": false,
+  "just_login": false,
+  "add_in_playlist": false,
+  "vitalizer": false,
+  "random_picker": false
+}
