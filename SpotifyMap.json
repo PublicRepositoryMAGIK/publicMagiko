@@ -23,6 +23,8 @@
   "follow_artist_normal": "._2221af4e93029bedeab751d04fab4b8b-scss._56a12d0978529b654affa11ca9390bd7-scss",
   "follow_artist_active": "._8ce451f6f123dc0dcda731378dbf8673-scss",
   
+  "button_default": ".btn.btn-block.btn-default.ng-binding",
+  
   "login_link": "https://accounts.spotify.com/it/login",
   "main_link": "https://open.spotify.com/",
   
