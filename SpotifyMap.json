@@ -24,6 +24,7 @@
   "follow_artist_active": "._8ce451f6f123dc0dcda731378dbf8673-scss",
   
   "button_default": ".btn.btn-block.btn-default.ng-binding",
+  "button_profile_status": "#account-settings-link",
   
   "login_link": "https://accounts.spotify.com/it/login",
   "main_link": "https://open.spotify.com/",
