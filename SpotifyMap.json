@@ -5,23 +5,23 @@
   "create_playlist_button": ".CreatePlaylistButton",
   
   "love_song_normal": ".control-button.spoticon-heart-16",
-  "love_song_active": ".control-button.spoticon-heart-active-16.control-button--active",
+  "love_song_active": ".spoticon-heart-active-16.control-button--active",
   
   "repeat_song_normal":".control-button.spoticon-repeat-16",
-  "repeat_song_active": ".control-button.spoticon-repeat-16.control-button--active",
-  "repeat_song_once": ".control-button.spoticon-repeatonce-16.control-button--active",
+  "repeat_song_active": ".control-button--active",
+  "repeat_song_once": ".spoticon-repeatonce-16.control-button--active",
   
   "shuffle_normal": ".control-button.spoticon-shuffle-16",
-  "shuffle_active": ".control-button.spoticon-shuffle-16.control-button--active",
+  "shuffle_active": ".control-button--active",
   
   "love_playlist_normal": ".a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss",
-  "love_playlist_active": ".a8cc695b476965309a30d01880d6cb01-scss._070c473104a0173afb6cca938b1d796c-scss.b86d4985215ef0b3ba87440586d38841-scss",
+  "love_playlist_active": ".b86d4985215ef0b3ba87440586d38841-scss",
   
   "skip_back_button": ".control-button.spoticon-skip-back-16",
   "skip_forward_button": ".control-button.spoticon-skip-forward-16",
   
   "follow_artist_normal": "._2221af4e93029bedeab751d04fab4b8b-scss._56a12d0978529b654affa11ca9390bd7-scss",
-  "follow_artist_active": "._2221af4e93029bedeab751d04fab4b8b-scss._56a12d0978529b654affa11ca9390bd7-scss._8ce451f6f123dc0dcda731378dbf8673-scss",
+  "follow_artist_active": "._8ce451f6f123dc0dcda731378dbf8673-scss",
   
   "login_link": "https://accounts.spotify.com/it/login",
   "main_link": "https://open.spotify.com/",
