@@ -5,7 +5,7 @@
   "listen_time": "46s-60s",
   "stop_time": false,           
   "max_vitalize_listen": 8,
-  "shuffle": false,
+  "shuffle": true,
   "repeat":false,
   "repeat_two": false,
   "save_song": false,
